@@ -38,3 +38,7 @@ Thumbs.db
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Agent context and prompt (do not push)
+docs/agent_context/
+docs/agent_prompt/
